@@ -9,7 +9,6 @@ Le projet a été réalisé par:
   - Florian HÖNISCH
   - Maha HALIMI
   - Mamadou DEMBELE 
-  -
   
 3 hydrographes:
   - 
