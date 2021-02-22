@@ -11,12 +11,12 @@ Guerlédan project 2020/2021, whose objectives are :
 
 The project is realized by :
 
-    3 roboticists:   
-      - Maha HALIMI
-      - Mamadou DEMBELE 
-      - Florian HÖNISCH
+      ├── 3 roboticists:   
+          - Maha HALIMI
+          - Mamadou DEMBELE 
+          - Florian HÖNISCH
 
-    3 hydrographers:
-      - Alban Lalanne 
-      - Jean de Lamotte 
-      - Judicaël Gendre  
+     ├──  3 hydrographers:
+          - Alban Lalanne 
+          - Jean de Lamotte 
+          - Judicaël Gendre  
