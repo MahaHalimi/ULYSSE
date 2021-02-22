@@ -1,5 +1,13 @@
 # Velodyne : indications to launch the velodyne (Personal computer and NUC)
 
+-- Git clone the repository on a Workspace 
+
+    $ mkdir ws_velodyne/src
+    $ cd ws_velodyne && catkin_make
+    $ cd src 
+    $ git clone https://github.com/ros-drivers/velodyne.git
+    $ cd ws_velodyne && catkin_make 
+
 -- Setting up your computer to communicate with the Velodyne sensor :
 
     1.Power the LIDAR via the included adapter
