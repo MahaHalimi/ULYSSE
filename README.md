@@ -11,7 +11,6 @@ Le projet a été réalisé par:
   - Florian HÖNISCH
 
 3 hydrographes:
-  - 
-  -
-  -
-  -
+  - Alban Lalanne 
+  - Jean de Lamotte 
+  - Judicaël Gendre  
