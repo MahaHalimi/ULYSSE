@@ -1,4 +1,4 @@
-# Velodyne : useful commands
+# Velodyne : indications to launch the velodyne (Personal computer and NUC)
 
 -- Setting up your computer to communicate with the Velodyne sensor :
 
