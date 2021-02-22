@@ -6,10 +6,10 @@ Projet Guerlédan 2020/2021 dont l'objectif est de réaliser un MNT sous ROS via
 Le projet a été réalisé par:  
 
 3 roboticiens:   
-  - Florian HÖNISCH
   - Maha HALIMI
   - Mamadou DEMBELE 
-  
+  - Florian HÖNISCH
+
 3 hydrographes:
   - 
   -
