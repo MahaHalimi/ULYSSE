@@ -94,3 +94,11 @@ On ULYSSE's nuc :
 Delete devel and build folders and tape :
     
     $ catkin_make
+ 
+And launch the file :
+
+    $ roslaunch velodyne_pointcloud VLP16_points.launch
+    
+    
+    
+    
