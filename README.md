@@ -19,6 +19,6 @@ The project is realized by :
 
      └──  3 hydrographers:
      
-              - Alban Lalanne 
-              - Jean de Lamotte 
-              - Judicaël Gendre  
+              - Alban LALANNE
+              - Jean de LAMOTTE 
+              - Judicaël GENDRE  
