@@ -1,7 +1,7 @@
 # ULYSSE
 Guerlédan project: Ulysse
 
-Guerlédan project 2020/2021, whose objectives are : 
+Guerlédan project 2020/2021, it's a field experimentation project whose objectives are : 
 
     • Realization of a DTM under ROS via the Ulysse USV
 
