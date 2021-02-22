@@ -3,11 +3,11 @@ Guerlédan project: Ulysse
 
 Guerlédan project 2020/2021, whose objectives are : 
 
-• Realization of a DTM under ROS via the Ulysse USV
+    • Realization of a DTM under ROS via the Ulysse USV
 
-• Georeferencing using Lidar data
+    • Georeferencing using Lidar data
 
-• Mapping by merging SMF and Lidar data 
+    • Mapping by merging SMF and Lidar data 
 
 The project is realized by :
 
