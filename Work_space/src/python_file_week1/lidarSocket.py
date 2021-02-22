@@ -18,7 +18,7 @@ try:
 
 except KeyboardInterrupt:
     fichier.close()
-    print("Fermeture du fichier !")
+    print("Fermeture du fichier !!")
 
 except Exception:
     fichier.close()
