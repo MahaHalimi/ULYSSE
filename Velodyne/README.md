@@ -31,7 +31,7 @@ sudo ifconfig eth0  10.0.1.X
 
 -- Installing ROS dependencies :
 
-$ sudo apt-get install ros-VERSION-velodyne (we have melodic version) #remplace VERSION with the version want it
+    $ sudo apt-get install ros-VERSION-velodyne (we have melodic version) #remplace VERSION with the version want it
 
 --------------------------------------------------------------------------------------
 
