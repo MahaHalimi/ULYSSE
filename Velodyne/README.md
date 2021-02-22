@@ -1,4 +1,4 @@
-# VELODYNE
+# Velodyne : useful commands
 
 -- Setting up your computer to communicate with the Velodyne sensor :
 
