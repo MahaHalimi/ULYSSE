@@ -87,7 +87,7 @@ Launch rviz, with the "velodyne" as a fixed frame:
 
 A script for avoiding obstacles its wortten on C++, you can launch it with 
 
-    $ rosrun velodyne_pointcloud lidar
+    $ rosrun script lidar
 
 -- If you want send your folder to UYLYSSE:
 
@@ -103,10 +103,7 @@ Delete devel and build folders and tape :
     
     $ catkin_make
  
-And launch the file :
 
-    $ roslaunch velodyne_pointcloud VLP16_points.launch
-    
     
     
     
